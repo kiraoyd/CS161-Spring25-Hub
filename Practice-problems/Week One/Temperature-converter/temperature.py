@@ -5,6 +5,7 @@
 # DATE:
 # CLASS:
 # Program Title: Temperature Converter
+# To run: open the terminal, type python3 temperature.py
 ############################################################################
 
 # When you are ready to submit the complete code to Canvas...

@@ -5,6 +5,7 @@
 # DATE:
 # CLASS:
 # Program Title: Planetary Weights Calculator
+# To run: open the terminal, type python3 planets.py
 ############################################################################
 
 # When you are ready to submit the complete code to Canvas...
