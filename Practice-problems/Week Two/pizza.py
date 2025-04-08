@@ -4,20 +4,13 @@
 # NAME:
 # DATE:
 # CLASS:
-# Program Title: Temperature Converter
+# Program Title: Pizza Calculator
 # To run: open the terminal, type python3 temperature.py
 ############################################################################
 
-# This program does not need to be submitted to Canvas
-
-
-
-
-
-
-
-
-
+# When you are ready to submit the completed code to Canvas...
+# 👇👇 Copy and paste in your code from the notebook "pizza.ipynb" below 👇👇
+# Download this pizza.py file, and upload it to the associated Canvas assignment
 
 
 
