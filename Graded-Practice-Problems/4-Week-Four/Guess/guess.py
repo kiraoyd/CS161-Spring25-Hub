@@ -5,7 +5,7 @@
 # DATE:
 # CLASS:
 # Program Title: Guess the Number
-# To run: open the terminal, type python3 samesies.py
+# To run: open the terminal, type python3 guess.py
 ############################################################################
 
 # When you are ready to submit the completed code to Canvas...
