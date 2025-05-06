@@ -5,7 +5,10 @@ import math
 MY_PI = math.PI
 DAMAGE_MAX = 20
 
-drink_counter = 0
+#making this global presents a problem:
+#both eat() and drink() change the value stored
+#This makes it hard to trace and track why and where drink_counter is being altered
+drink_counter = 0 
 
 def eat():
     global drink_counter
