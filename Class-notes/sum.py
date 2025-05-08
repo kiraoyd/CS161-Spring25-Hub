@@ -1,6 +1,5 @@
 
 
-
 def sum_sequence(n):
     count = 1
     my_sum = 0
