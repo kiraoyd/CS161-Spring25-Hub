@@ -1,5 +1,7 @@
 
 
+###------THIS IS NOT FINISHED!--------##
+### At home, figure out how to make sure this proram still runs, even if no data is entered
 
 def main():
 
